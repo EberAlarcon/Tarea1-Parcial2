@@ -1,0 +1,21 @@
+.contenedor{
+    background-color: rgb(116, 245, 111);
+}
+h1{
+    color: brown;
+    margin-left: 40%;
+    height: 50px;
+}
+h2{
+    height: 30px;
+}
+.nom_estudiante{
+    background-color: rgb(156, 124, 218);
+    margin-left: 47%;
+    height: 50px;
+    border-radius: 10%;
+}
+.datos{
+    background-color: rgb(45, 247, 220);
+}
+
